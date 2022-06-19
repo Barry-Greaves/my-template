@@ -35,9 +35,7 @@ nav a:hover {
 .card {
     float: left;
     width: 20%;
-    margin-left: 10%;
-    
-   
+    margin-left: 10%;  
 }
 
 .card a {
@@ -55,9 +53,23 @@ img {
 h2 {
     text-decoration: none;
     color: #4a4a4f;
+    
 }
 
 h1 {
     text-align: center;
     margin: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-transform: uppercase;
+    color: #4a4a4f;
+}
+
+img:hover {
+    opacity: 50%;
+    
+}
+
+h2:hover {
+    opacity: 50%;
 }
